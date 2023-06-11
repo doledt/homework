@@ -1,5 +1,5 @@
 # homework
 
-## Aplicacion de gestion de eventos
+## Aplicación de gestión de eventos
 
 Caracteristicas sugeridas
